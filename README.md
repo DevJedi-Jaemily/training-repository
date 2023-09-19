@@ -1,5 +1,4 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# training-repository
+This is a training repository for DevJedis at https://www.w3schools.com
 
-This repository is built step by step in the tutorial.
+This repository is built step by step in the tutorial with the aid of W3schools.
